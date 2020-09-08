@@ -1,0 +1,14 @@
+body {
+background-color: cadetblue;
+}
+
+#progressTest {
+    width: 50%;
+    background-color: coral;
+}
+
+#barTest {
+    Width: 10%;
+    height: 30px;
+    background-color: cornflowerblue;
+}
